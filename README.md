@@ -53,6 +53,7 @@
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00BFFF&section=footer" />
   
+  ![Snake animation](https://github.com/KevenAbraham/KevenAbraham/blob/output/github-contribution-grid-snake.svg)
   
 </div>
   
