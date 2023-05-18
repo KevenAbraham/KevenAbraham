@@ -19,6 +19,12 @@
 <br>
 </div>
   
+ <div align=center>
+  
+   ![Snake animation](https://github.com/KevenAbraham/KevenAbraham/blob/output/github-contribution-grid-snake.svg)
+  
+ </div>
+  
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KevenAbraham&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <a href="mailto:cmp.1a.abraham.keven20@gmail.com">
@@ -51,9 +57,11 @@
     <img align="center" alt="php" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
  </div>
  
+
+ 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00BFFF&section=footer" />
   
-  ![Snake animation](https://github.com/KevenAbraham/KevenAbraham/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
   
