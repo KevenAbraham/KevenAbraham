@@ -19,11 +19,10 @@
 <br>
 </div>
   
- <!-- <div align=center>
+ <div align=center>
   
    ![Snake animation](https://github.com/KevenAbraham/KevenAbraham/blob/output/github-contribution-grid-snake.svg) 
   
- </div> -->
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KevenAbraham&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
