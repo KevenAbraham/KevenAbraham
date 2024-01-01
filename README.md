@@ -3,7 +3,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00BFFF" />
 
   <!-- Introducing - Typing Text -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=ffffff&&center=true&Center=truewidth=100%&lines=Ol%C3%A1!!+Bem-vindo(a)+ao+meu+perfil!;Hello!!+Welcome+to+my+profile!;Me+chamo+Keven+e+tenho+19+anos.;My+name+is+Keven+and+I'm+19.;Estudante+na+FATEC.;Student+from+FATEC.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hey!+My+name+is+Keven+and+I'm+19.;Studying+to+become+a+C%23+Developer)](https://git.io/typing-svg)
 
   <!-- Github Stats and Most used languages -->  
   <a href="https://github.com/anuraghazra/github-readme-stats">
